@@ -578,11 +578,6 @@ function Footer(props) {
     React.createElement(
       "p",
       null,
-      "The images I am using as banners for each city do not belong to me."
-    ),
-    React.createElement(
-      "p",
-      null,
       "Photos taken with a Lumix g5 (by the crappy photographer that is yours truly)"
     )
   );
