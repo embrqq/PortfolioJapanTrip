@@ -574,11 +574,6 @@ function Footer(props) {
       "p",
       null,
       "This site was made by Elisabeth Henkens"
-    ),
-    React.createElement(
-      "p",
-      null,
-      "Photos taken with a Lumix g5 (by the crappy photographer that is yours truly)"
     )
   );
 }
