@@ -449,7 +449,6 @@ function Footer(props){
 
     <div className="footer">
       <p>This site was made by Elisabeth Henkens</p>
-      <p>The images I am using as banners for each city do not belong to me.</p>
       <p>Photos taken with a Lumix g5 (by the crappy photographer that is yours truly)</p>
     </div>
 
