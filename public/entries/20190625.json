@@ -1,0 +1,119 @@
+{
+  "location":"Akihabara",
+  "date":"20190625",
+  "id":"20190625",
+  "place":"Akihabara",
+  "imgsrc":"/assets/images/20190625-akibaday.jpeg",
+  "english":"Akihabara",
+  "japanese":"秋葉原",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"The day has finally come. I am at the part of the trip I had been looking forward to most: Akihabara. Akihabara is a major pop-culture and electronics hub in Tokyo and a part of the Chiyoda Ward. Before getting into the real deal I had to wait for my hotel room to be ready and drop off my stuff, so I went and grabbed some curry from a major chain in Japan called CoCo Ichibanya. The curry (Japanese curry is very different from Thai or Indian curry) was really good and super filling. I got 3x spicy which was right at my level of being deliciously spicy but not so spicy that it becomes annoying to eat. Sometimes I feel like challening my spice tolerance and they let you go up to 10x spicy which supposedly is the same spicy level as Buldak Ramen (the spiciest thing I've ever eaten), so perhaps next time I come to Japan I'll challenge it."
+    },
+    {
+      "tag":"images",
+      "id":"20190625pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190625-curry.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Chicken Katsu Curry",
+          "japanese":"チキンカツカレー"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Anyhow, on to the real deal. Akihabara, if you don't know, is bascially the anime and manga holy land. Many series are set in the city for some \"meta\" points (meta as in  characters in the anime/manga like anime/manga and go to akihabara to buy anime/manga), and it has the highest concentration of stores selling only anime goods, manga, electronics, and games. Since anime and manga are some of my favorite things, it makes sense that this would be a place I look forward to. Honestly ever since I started learning Japanese in high school, anime and manga have become my primary hobby, and it's only gotten worse as my Japanese has gotten better (^_^;). When I came to Japan five years ago, we had a free day to do stuff in Tokyo and I was planning on going to Akihabara but then chickened out and just went with a friend to a department store. Now that I'm here I'm kinda punching high school me for not going (on top of the many pre-existing reasons why I'm punching high school me). Today I only got to explore a couple of stores before tiring out, but each one has been an adventure. Luckily since I can read Japanese I can get fun out of going to stores that aren't the famous ones like Radio Kaikan and things of the like as I can explore signs not translated into English, and just look at various manga, anime, and novels by reading instead of just looking for pictures of things I know. I think I probably have surprised some book store staff by going in and buying a ton of books in Japanese, but that was my main mission for today, and I bought a lot (and plan on more tomorrow, oh geez!). I visited about 4 book stores, and one store specializing in character goods. I bought the first book in a manga series to try it out and liked it and intend to go pick up the rest tomorrow, and to try and grab some character goods."
+    },
+    {
+      "tag":"images",
+      "id":"20190625pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190625-purchases.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Books and Character Goods",
+          "japanese":"本とキャラクターグッズ"
+        },
+        {
+          "src":"/assets/images/20190625-akibaday.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Akihabara at Day",
+          "japanese":"昼の秋葉原"
+        },
+        {
+          "src":"/assets/images/20190625-akibanight.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Akihabara at Night",
+          "japanese":"夜の秋葉原"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After shopping I head back to my hotel where I read that first manga chapter, then decided to grab some dinner. I felt like ramen and looked up some places on google maps and found one with really good reviews that was close by and just walked on over. It's name was 九州じゃんがら (Kyushuu Jangara). It was honestly pretty amazing. When you go to ramen stalls like this it's fun because you sit at the counter where they cook, and if you finish your noodles before your soup you can just raise your hand and say \"suimasen! kaedama onegaishimasu!\" and get a refill for you noodles! So if you go to a place like this make sure not to drink all the broth until you're starting to get full because you can eat all the noodles you like (at extra cost of course, $1.50 per refill usually)!"
+    },
+    {
+      "tag":"images",
+      "id":"20190625pics3",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190625-stall.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Ramen Stall",
+          "japanese":"ラメーン屋さん"
+        },
+        {
+          "src":"/assets/images/20190625-ramen.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Tokyo Tonkotsu Ramen + Marinated Egg",
+          "japanese":"東京トンコツ＋味玉子"
+        },
+        {
+          "src":"/assets/images/20190625-kaedama.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Noodles Refilled!",
+          "japanese":"替え玉素晴らしい"
+        }
+      ]
+    }
+  ]
+}

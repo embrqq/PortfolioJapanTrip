@@ -1,0 +1,128 @@
+{
+  "location":"Akihabara",
+  "date":"20190627",
+  "id":"20190627",
+  "place":"Akihabara",
+  "imgsrc":"/assets/images/20190626-kanda.jpeg",
+  "english":"Akihabara",
+  "japanese":"秋葉原",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"I'll be combining the entries for the 26th and the 27th into this one because I took it a bit easy the past few days."
+    },
+    {
+      "tag":"bold",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":{
+        "english":"June 26th",
+        "japanese":"六月二十六日"
+      }
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today another one of my friends from my online group asked if he wanted to hangout. I went to Ueno, one station north of Akihabara, and met with him there to go and eat some more conveyor belt sushi. We walked around a bit and went to Ameyoko, a major shopping street, but I didn't find it too interesting so I didn't take any pictures of that part. After eating, we went back to Akihabara where he helped me search through some of the stores to try and find more merchandise for the characters from some of my favorite series, but in the end I was only able to find a couple pieces of merch and just bought a keychain with one of my favorite characters on it. I picked up some more manga to read, and stumbled on a really good series that I ended up buying every book for, more to add to my collection. Afterwards, since I wanted to get a charm from a shrine, he helped me find the nearby Kanda Shrine. While there I tried doing a Shinto-style prayer where you go up to the altar, throw a coin in, bow, clap, pray and bow once more. It was something I wouldn't have had the courage to do unless a Japanese friend was there to help me out! Afterwards we went to the shop that's attached to most major shrines, and I asked the Miko at the shop what sort of 'Omamori', Japanese charm, I should get. She recommended either one for winning or one for getting over sickness, so I just went with the sickness one because it was prettier, haha."
+    },
+    {
+      "tag":"images",
+      "id":"20190626pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190626-kanda.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Kanda Shrine",
+          "japanese":"神田神社"
+        },
+        {
+          "src":"/assets/images/20190626-charm.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Sickness Charm",
+          "japanese":"病気平癒お守り"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"When walking around Akihabara a bit more, we saw a crazy advertisement for the anime \"The Seven Deadly Sins\", a show I really liked in fact, and it was just blasting messages on the street. After walking around, I got pretty tired, and parted ways with my friend, then got some shabu-shabu for dinner. It was wagyu like the sukiyaki I had a few days earlier, and I've found out my body really just can't handle wagyu. I might've just eaten too much again, but I woke up early again the next morning with a bad stomach ache, but at least this time nothing happened other than losing some sleep."
+    },
+    {
+      "tag":"images",
+      "id":"20190626pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190626-nanatsu.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"The Seven Deadly Sins",
+          "japanese":"七つの大罪"
+        },
+        {
+          "src":"/assets/images/20190626-shabu.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Shabu Shabu",
+          "japanese":"しゃぶしゃぶ"
+        }
+      ]
+    },
+    {
+      "tag":"bold",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":{
+        "english":"June 27th",
+        "japanese":"六月二十七日"
+      }
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today I tried something new and after sleeping-in to get over the food I ate last night, I headed out to grab the remaining volumes of a manga that I tried the night before, and then went to go see a movie. The movie is the continuation of an anime series I liked. Japanese titles for some things are incredibly weird, and the English translation of this series is \"Rascal Doesn't Dream of Bunny Girl Senpai\" (青春ブタ野郎はバニガール先輩の夢を見ない). There are other shows with titles like this, but this is probably the craziest, followed by the novel I'm reading which translates to \"I Want to Eat Your Pancreas\", which is just the literal translation of the title 君に膵臓を食べたい. Anyhow, I went and watched the Rascal movie, and it was pretty good. I was able to understand like 90% of the dialogue, only really losing place when they decide to go all pseudo-science terminology. I got some weird looks from other people, and the person to my right kept looking my way whenever I reacted to anything that happened in the movie (I just like chuckled a couple times). Not sure what that was all about, but I was the only foreigner and one of like 4 girls in the entire auditorium. After watching that, I went to Ginza where there was a good tsukemen place, and had that. It was my first time trying tsukemen. Tsukemen is basically just like deconstructed ramen, but with WAY thicker noodles, and a much thicker soup. \"Tsukeru\" means to dip in Japanese and tsukemen is just a combination of that verb and the word for noodles \"men\". Once I ate that I just went back to my hotel to digest food, write this, and figure out how the heck to pack all this merchandise into my suitcase."
+    },
+    {
+      "tag":"images",
+      "id":"20190627pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190627-tsukemen.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Tsukemen",
+          "japanese":"つけ麺"
+        }
+      ]
+    }
+  ]
+}

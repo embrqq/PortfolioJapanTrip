@@ -1,0 +1,158 @@
+{
+  "location":"Kyoto",
+  "date":"20190622",
+  "id":"20190622",
+  "place":"Downtown Kyoto",
+  "imgsrc":"/assets/images/20190622-templefront.jpeg",
+  "english":"Downtown Kyoto",
+  "japanese":"ダウンタウン京都",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Sorry that this one is late. Was feeling very tired and didn't want to write this when I got back to my hotel. Today I just went to downtown Kyoto and walked around, and just went to whatever appeared before my eyes. So I'll just upload the pictures of where I went / what I ate, and call it a day. Really had 0 plan for the day."
+    },
+    {
+      "tag":"images",
+      "id":"20190622pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190622-tower.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"View From Kyoto Tower",
+          "japanese":"京都タワーからの光景"
+        },
+        {
+          "src":"/assets/images/20190622-templefront.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Higashi Honganji",
+          "japanese":"東本願寺"
+        },
+        {
+          "src":"/assets/images/20190622-templefountain.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Higashi Honganji",
+          "japanese":"東本願寺"
+        },
+        {
+          "src":"/assets/images/20190622-templeside.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Higashi Honganji",
+          "japanese":"東本願寺"
+        },
+        {
+          "src":"/assets/images/20190622-templeinside.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Higashi Honganji",
+          "japanese":"東本願寺"
+        },
+        {
+          "src":"/assets/images/20190622-soymilkicecream.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Soymilk Icecream",
+          "japanese":"豆乳ソフトクリーム"
+        },
+        {
+          "src":"/assets/images/20190622-tuna.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Tuna",
+          "japanese":"まぐろ漬け"
+        },
+        {
+          "src":"/assets/images/20190622-gachapon.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Gachapon",
+          "japanese":"ガチャポン"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After walking around and eating at Nishiki market, I headed back to my ryokan. It started raining suddenly and I didn't bring my umbrella because it wasn't supposed to rain, but luckily I was right next to an umbrella store, and picked myself up a nice and pretty umbrella. After getting to my ryokan, I had a dinner of sukiyaki. It was really good, in fact too good as my stomach later gave me the favor of seeing my food once again at 6 in the morning. I think the whole meal was just too rich with high quality fatty meat, and I just ate a lot of food, so I couldn't digest it all. Other than that, my stay at the ryokan was really great, and it marks the end of my stay in Kyoto."
+    },
+    {
+      "tag":"images",
+      "id":"20190622pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190622-garden.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Ryokan Restaurant View",
+          "japanese":"旅館のレストランからの光景"
+        },
+        {
+          "src":"/assets/images/20190622-food1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Appetizer",
+          "japanese":"最初の1皿"
+        },
+        {
+          "src":"/assets/images/20190622-food2.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Japanese Spiny Lobster",
+          "japanese":"イセエビ"
+        },
+        {
+          "src":"/assets/images/20190622-food3.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Grilled Wagyu",
+          "japanese":"和牛焼肉"
+        },
+        {
+          "src":"/assets/images/20190622-food4.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Sukiyaki",
+          "japanese":"すき焼き"
+        }
+      ]
+    }
+  ]
+}

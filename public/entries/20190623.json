@@ -1,0 +1,69 @@
+{
+  "location":"Yokohama",
+  "date":"20190623",
+  "id":"20190623",
+  "place":"Yokohama",
+  "imgsrc":"/assets/images/20190623-bunnyhat.jpeg",
+  "english":"Yokohama",
+  "japanese":"横浜",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today I went to Yokohama. I mostly chose to stop in this city to meet up with a friend of mine who lives nearby. Once checked into my hotel, we met up at the train station right by my hotel and made our way to see some of the major tourist sights. I was still working off the nausea from my episode this morning so I didn't buy too much street food, but we visited the Yokohama China Town (the largest in Japan), Akarenga (a red-brick storage house originally used when Yokohama was one of the first ports open to the west), and then headed to an Izakaya (Japanese bar) for some food and drinks. It was really a lot of fun, and nice to have someone guide me around instead of having me stare at my cellphone for directions the entire time. I didn't do too much today other than what you'll see in these pictures."
+    },
+    {
+      "tag":"images",
+      "id":"20190623pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190623-akarengo.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Akarengo Storage House",
+          "japanese":"赤レンガ倉庫"
+        },
+        {
+          "src":"/assets/images/20190623-chukagai1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Chinatown",
+          "japanese":"中華街"
+        },
+        {
+          "src":"/assets/images/20190623-chukagai2.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Chinatown",
+          "japanese":"中華街"
+        },
+        {
+          "src":"/assets/images/20190623-bunnyhat.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Random Bunny Hat",
+          "japanese":"バニーハット"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Now I've gotta sleep off the alcohol and get ready for heading to a maid cafe with my friend tomorrow!"
+    }
+  ]
+}

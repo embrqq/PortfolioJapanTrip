@@ -1,0 +1,83 @@
+{
+  "location":"Kuromon Market",
+  "date":"20190620",
+  "id":"20190620",
+  "place":"Kuromon market",
+  "imgsrc":"/assets/images/20190620-fruit.jpeg",
+  "english":"Kuromon Market",
+  "japanese":"黒門市場",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today I didn't do too much. I was feeling tired and kind of out of it as soon as I woke up. After saying hi to my mom on facebook, she sent me a link on some stuff to do, and I just hopped on the subway again to go to one of the restaurants that was mentioned in said link. It was an udon place called Aozora Blue (which is kind of a weird name as it means blue sky blue) that makes its own noodles using fresh ground flour, but I was feeling kinda sick to my stomach and asked for the easier to digest white flour noodles, which are still made by hand but not with their stone-ground flour. It was pretty good, and I ordered the set with the side plate of veggie tempura."
+    },
+    {
+      "tag":"images",
+      "id":"20190620pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190620-aozora.jpeg",
+          "style":{
+          },
+          "english":"Aozora Blue",
+          "japanese":"青空blue"
+        },
+        {
+          "src":"/assets/images/20190620-udon.jpeg",
+          "style":{
+          },
+          "english":"Tempura Udon",
+          "japanese":"野菜天ぷらうどん"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After that I headed over to another place on the list of things in that link, Kuromon Ichiba. It's a market with quite a few food stalls, many shops selling wagyu and fish, and other odds and ends. I grabbed myself a skewer of grilled wagyu for 500 yen, and just took a couple pictures of things. I was honestly surprised how even a cheap cut of wagyu is significantly better than beef I've had in America. The marbling in the meat just makes it so much more tender and flavorful. After walking back to my hotel I just sat around for a while doing not much, and then decided to go do a little bit of shopping, before heading back to my hotel once again, then deciding to go to the convenience store again, this time a lawson so now I've tried all three major chains, and I'm writing this before crashing. I need sleep before heading to Kyoto tomorrow."
+    },
+    {
+      "tag":"images",
+      "id":"20190620pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190620-kuromon.jpeg",
+          "style":{
+          },
+          "english":"Kuromon Market",
+          "japanese":"黒門市場"
+        },
+        {
+          "src":"/assets/images/20190620-octopus.jpeg",
+          "style":{
+          },
+          "english":"Octopus Skewer Thing",
+          "japanese":"タコの串のやつ"
+        },
+        {
+          "src":"/assets/images/20190620-fruit.jpeg",
+          "style":{
+          },
+          "english":"Expensive Fruit",
+          "japanese":"超高いフルーツ"
+        },
+        {
+          "src":"/assets/images/20190620-skewer.jpeg",
+          "style":{
+          },
+          "english":"Wagyu Skewer",
+          "japanese":"焼いた和牛"
+        }
+      ]
+    }
+  ]
+}

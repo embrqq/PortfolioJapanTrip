@@ -1,0 +1,102 @@
+{
+  "location":"Maid Cafe",
+  "date":"20190624",
+  "id":"20190624",
+  "place":"Maid Cafe",
+  "imgsrc":"/assets/images/20190624-maid1.jpeg",
+  "english":"Maid Cafe",
+  "japanese":"メイド喫茶",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"I met up with my friend again today, and we headed out to Tokyo for a little. Our destination was Akihabara, and there we went to a maid cafe. I had wanted to try one, but it was definitely not a place that I could go to alone, so I was glad that he offered to take me there. We went to Maidreamin which is a major maid cafe chain, and it was a bit overwhelming but pretty fun. They bring your food and make you participate in little charms/spells. Probably to people who don't watch anime, none of this makes sense, but if you do then you'll know what's going on."
+    },
+    {
+      "tag":"images",
+      "id":"20190624pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190624-maid1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Bear Ears",
+          "japanese":"熊耳"
+        },
+        {
+          "src":"/assets/images/20190624-maid2.jpeg",
+          "style":{
+            "height":"90vh",
+            "maxWidth":"90vh"
+          },
+          "english":"Picture With A Maid",
+          "japanese":"メイドとの写真"
+        },
+        {
+          "src":"/assets/images/20190624-maid3.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Bear Parfait",
+          "japanese":"熊たんパフェ"
+        },
+        {
+          "src":"/assets/images/20190624-maid4.jpeg",
+          "style":{
+            "height":"90vh",
+            "maxWidth":"80vh"
+          },
+          "english":"Passport to Dream Land",
+          "japanese":"夢の国へのパスポート"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Once we left the maid cafe, we walked around Akihabara in the rain a bit, and visited a few manga stores as I went on a quest to look for things to read over the summer. We did find a few stores that had what we were looking for and I bought a lot of manga and a few novels, and have plans to buy more when I head back tomorrow."
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After shopping we came back to Yokohama, parted ways, and I just wandered the city for a bit. I went to Chinatown yesterday but didn't try much of the food, so went back and grabbed myself some grilled soup dumplings. After eating those, I went back to the area my hotel is at, Minato Mirai, and just walked around for a while, and went on the big Ferris Wheel. I didn't get any good pictures from inside the thing, but got a decent one of it from a distance."
+    },
+    {
+      "tag":"images",
+      "id":"20190624pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190624-dumplings.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Grilled Soup Dumpings",
+          "japanese":"焼き小籠包"
+        },
+        {
+          "src":"/assets/images/20190624-wheel1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Cosmo Clock 21",
+          "japanese":"コスモクロック２１"
+        }
+      ]
+    }
+  ]
+}

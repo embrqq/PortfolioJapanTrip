@@ -1,0 +1,255 @@
+{
+  "location":"Kyoto",
+  "date":"20190621",
+  "id":"20190621",
+  "place":"Kyoto",
+  "imgsrc":"/assets/images/20190621-ukifune.jpeg",
+  "english":"Kyoto",
+  "japanese":"Kyoto",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today I grabbed one last meal in Osaka before I checked out of my hotel and left for Kyoto. I ate at a place called \"Ten-don Restaurant\" which was a restaurant that specializes in.. ten-don (tempura donburi). It was good."
+    },
+    {
+      "tag":"images",
+      "id":"20190621pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190621-tendon.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Tendon Restaurant's Tendon",
+          "japanese":"天丼の店の天丼"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Once finished eating, I hopped on the subway, went to Shin-Osaka station, took the 15 minute Shinkansen ride to Kyoto, and made my way to my next hotel: Yachiyo Ryokan. If you don't know what Ryokan are, I recommend looking at my info page and googling about them. They are very interesting Japanese inns, known for hospitality and Kyoto has some of the best. I came before check-in time, so I had to do something to distract myself until then, so just strolled the streets near the Ryokan for a couple hours and found myself in a temple and a shrine with attached garden."
+    },
+    {
+      "tag":"images",
+      "id":"20190621pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190621-nanzenji1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Gate to Nanzenji",
+          "japanese":"南禅寺の門（？）"
+        },
+        {
+          "src":"/assets/images/20190621-nanzenji.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Nanzenji",
+          "japanese":"南禅寺"
+        },
+        {
+          "src":"/assets/images/20190621-heianjingu.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Heianjingu Shrine",
+          "japanese":"平安神宮"
+        },
+        {
+          "src":"/assets/images/20190621-heianjinguhiroba.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Heianjingu Plaza",
+          "japanese":"平安神宮の広場（？）"
+        },
+        {
+          "src":"/assets/images/20190621-garden1.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Heianjingu Garden",
+          "japanese":"平安神宮の庭"
+        },
+        {
+          "src":"/assets/images/20190621-garden2.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Heianjingu Garden",
+          "japanese":"平安神宮の庭"
+        },
+        {
+          "src":"/assets/images/20190621-garden3.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Heianjingu Garden",
+          "japanese":"平安神宮の庭"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After a couple hours of wandering I headed back to the Ryokan now that they were ready for me. The old man running the place was impressed with my Japanese but had that usual old man attitude of seeming like he has very little patience. He discussed how it's been really hot lately and how the rainy season is late this year, and then showed me to my room. The room is amazing, and the bath was way nicer than I was expecting."
+    },
+    {
+      "tag":"images",
+      "id":"20190621pics3",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190621-ukifune.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Yachiyo Room",
+          "japanese":"八千代の浮舟の部屋"
+        },
+        {
+          "src":"/assets/images/20190621-bath.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Bathtub",
+          "japanese":"風呂"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Once I finished taking a dip in the tub, I spent about 30 minutes figuring out how to put on the Ryokan Yukata. I don't have a picture of me wearing it, but you can google them to get an idea. It's just a plain cotton garb, and it's comfortable to wear after taking a bath. Once I got that put on it was time for my dinner, kaiseki ryori. Kaisek ryori is a traditional Japanese multicourse meal using seasonal ingredients. There were a few parts that were less than appetizing for me, but I managed to get nearly everything down, and the only thing stopping me was being too full at the end. The staff were super nice, each time they came in with a new plate they would ask me a couple questions and ask how the food was, and several times explaining \"Even some Japanese people have trouble with this so it's ok if you can't eat it!\" and \"How is everything? Are you able to eat it?\", and they were surprised when I finished nearly all the plates. I dropped my tea on myself at the end, but luckily there was already a spare yukata in the closet, and they didn't make a big deal of the cushion that I was sitting on getting a little dirty. It was a pretty fun experience."
+    },
+    {
+      "tag":"images",
+      "id":"20190621pics4",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190621-food1.jpeg",
+          "style":{
+          },
+          "english":"Opening Fish Samples",
+          "japanese":"生魚盛り合わせ"
+        },
+        {
+          "src":"/assets/images/20190621-food2.jpeg",
+          "style":{
+          },
+          "english":"Yachiyo Sake",
+          "japanese":"八千代日本酒"
+        },
+        {
+          "src":"/assets/images/20190621-food3.jpeg",
+          "style":{
+          },
+          "english":"A Chinese Turtle Soup",
+          "japanese":"すっぽん"
+        },
+        {
+          "src":"/assets/images/20190621-food4.jpeg",
+          "style":{
+          },
+          "english":"Some More Fish",
+          "japanese":"2回目の生魚盛り合わせ"
+        },
+        {
+          "src":"/assets/images/20190621-food5.jpeg",
+          "style":{
+          },
+          "english":"A Fish Hotpot Thing",
+          "japanese":"魚の火鍋みたいなもの"
+        },
+        {
+          "src":"/assets/images/20190621-food6.jpeg",
+          "style":{
+          },
+          "english":"Unagi",
+          "japanese":"うなぎ"
+        },
+        {
+          "src":"/assets/images/20190621-food7.jpeg",
+          "style":{
+          },
+          "english":"Grilled Beef",
+          "japanese":"焼肉"
+        },
+        {
+          "src":"/assets/images/20190621-food8.jpeg",
+          "style":{
+          },
+          "english":"Grilled Fish",
+          "japanese":"焼き魚"
+        },
+        {
+          "src":"/assets/images/20190621-food9.jpeg",
+          "style":{
+          },
+          "english":"Desert",
+          "japanese":"デザート"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"I'm writing this as I settle into my food coma, so I'm about to go to sleep. Right after finishing, the staff came in one last time and quickly pulled out the futon for me to sleep on, and it looks quite comfy. The garden outside my room is peaceful to look at and is pretty with all the lights at night. Anyhow, time to sleep."
+    },
+    {
+      "tag":"images",
+      "id":"20190621pics5",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190621-roomdark.jpeg",
+          "style":{
+
+          },
+          "english":"Lights Off",
+          "japanese":"電気を消したまま"
+        },
+        {
+          "src":"/assets/images/20190621-futon.jpeg",
+          "style":{
+
+          },
+          "english":"Futon",
+          "japanese":"布団"
+        }
+      ]
+    }
+  ]
+}

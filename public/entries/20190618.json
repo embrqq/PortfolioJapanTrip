@@ -1,0 +1,152 @@
+{
+  "location":"Osaka",
+  "date":"20190618",
+  "id":"20190618",
+  "place":"Osaka Castle",
+  "imgsrc":"/assets/images/20190618-osakacastlefar.jpeg",
+  "english":"Osaka Castle",
+  "japanese":"大阪城",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"Today, after sleeping 11 hours to get over the jetlag, I woke up pretty early, frequented the conbini right outside of my hotel's entrance for some breakfast of warm green tea, umeboshi onigiri, and a ham + cheese + egg sandwich and then headed straight to the subway. From there I kinda just hopped on a train without thinking, and then realized that I don't really have a plan. Pretty much said \"screw it\" and decided I'd go see Osaka castle, and I'm pretty glad I did."
+    },
+    {
+      "tag":"images",
+      "id":"20190618pics1",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190618-soakacastlefar2-crop.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Osaka Castle",
+          "japanese":"大阪城"
+        },
+        {
+          "src":"/assets/images/20190618-osakamoat.jpeg",
+          "style":{
+            "height":"90vh",
+            "minWidth":"100%"
+          },
+          "english":"Moat + Wall",
+          "japanese":"堀と壁"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"The castle was way bigger than I was expecting, and the grounds around it were amazing. Depending on the screen you're using to look at this you might be able to see some people in the second picture to get a size of the scale of the walls, and notice the tiny people at the very top of the castle! The castle had two gigantic moats (an inner and an outer), huge stone walls, groves, large gathering areas, gates, pretty bridges, and more. It was way cooler than any European castle I've been to (sorry my Europe loving family members!). I wish the sky were clearer today so that there would be a nice blue sky behind my pictures, but instead it was just a white blanket and made the colors look kinda weird, but what ever. After walking around the castle for about an hour and a half I was getting pretty hungry, and decided that now would be a good time to grab some Ichiran ramen. This ramen place is one of the favorites of my high school Japanese teacher, Masui Sensei, and we went there together the first time I was in Japan. It's a chain and has shops all over the place so I just took the subway to the nearest one. It was just as good as I remembered."
+    },
+    {
+      "tag":"images",
+      "id":"20190618pics2",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190618-ramen.jpeg",
+          "style":{
+            "height":"70vh",
+            "minWidth":"100%"
+          },
+          "english":"Ichiran Ramen",
+          "japanese":"一蘭ラーメン"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"After eating, I headed back to the hotel to work on this for a bit, then made one last outing to a department store to grab some books to read in my downtime. One of them I've watched the anime for, but three of them are completely new stories to me, so I'm interested to see how they are. After the department store I sat around wondering what to eat, then decided I should try 回転寿司 (\"Kaitenzushi\" or Rotating Sushi, the name sounds dumb in english). I went to a restaurant super near my hotel called 廻転寿司CHOJIRO (Kaitenzushi Chojiro) and it was honestly pretty good. I know for sure that conveyor belt sushi is nowhere near the real deal, but it was better than pretty much all sushi places I've been to in the US except. And I was quite happy that I was able to to have 7 servings and have it cost only around ~$30. Would've been quite a bit more in the US!"
+    },
+    {
+      "tag":"images",
+      "id":"20190618pics3",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/20190618-books.jpeg",
+          "style":{
+          },
+          "english":"\"I want to eat your pancreas\", etc",
+          "japanese":"「君の膵臓をたべたい」などなど"
+        },
+        {
+          "src":"/assets/images/20190618-sushibelt.jpeg",
+          "style":{
+          },
+          "english":"Conveyor Belt Sushi",
+          "japanese":"回転寿司"
+        },
+        {
+          "src":"/assets/images/20190618-sushi1.jpeg",
+          "style":{
+          },
+          "english":"Tuna Set",
+          "japanese":"マグロセット"
+        },
+        {
+          "src":"/assets/images/20190618-sushi2.jpeg",
+          "style":{
+          },
+          "english":"Shrimp",
+          "japanese":"甘エビ"
+        },{
+          "src":"/assets/images/20190618-sushi3.jpeg",
+          "style":{
+          },
+          "english":"Salmon and Onion",
+          "japanese":"玉ねぎサーモン"
+        },
+        {
+          "src":"/assets/images/20190618-sushi4.jpeg",
+          "style":{
+          },
+          "english":"Unagi!!",
+          "japanese":"うなぎ"
+        },
+        {
+          "src":"/assets/images/20190618-sushi5.jpeg",
+          "style":{
+          },
+          "english":"Sea bream (I think?)",
+          "japanese":"鯛（だと思う?）"
+        },
+        {
+          "src":"/assets/images/20190618-sushi6.jpeg",
+          "style":{
+          },
+          "english":"Yellow tail",
+          "japanese":"ハマチ"
+        },
+        {
+          "src":"/assets/images/20190618-sushi7.jpeg",
+          "style":{
+          },
+          "english":"Chutoro Tuna",
+          "japanese":"中とろ"
+        }
+      ]
+    },
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"I forgot to take a picture before eating the first piece of the sea bream and feel dumb now. I was super hungry going in. Something I've found interesting today is that a lot of Japanese people just refuse to use Japanese with me. When I went in to get my seat at this sushi place, the waiter came up to me and asked me some questions, all of which I answered in Japanese, but he just kept speaking English with me. And this has been a common occurrence. I go to the cashier, and answer quick questions in Japanese and say please and thanks, but they just stop talking as soon as it's my turn and resort to only hand gestures. Somewhat interesting, somewhat frustrating at the same time. At least the cashier at the sushi place immediately switched to Japanese after I responded in Japanese, but he was the first. Anyhow, this pretty much wraps up my second day! Tomorrow I'll be hopping on a Shinkansen and heading over to Hiroshima for a day trip to eat some Okonomiyaki and see the Atomic Bomb Memorial."
+    }
+  ]
+}

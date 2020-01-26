@@ -1,0 +1,54 @@
+{
+  "location":"Osaka",
+  "date":"20190617",
+  "id":"20190617",
+  "place":"Kansai Airport",
+  "imgsrc":"/assets/images/ramen.jpg",
+  "english":"Kansai Airport",
+  "japanese":"関西国際空港",
+  "content":[
+    {
+      "tag":"p",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":"This is where some text goes! Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus, metus vitae interdum suscipit, erat elit tincidunt nisl, eu interdum dolor nunc vitae turpis. Quisque eget euismod dui. Mauris ac justo congue, consectetur erat pulvinar, ultrices est. Ut non neque ultricies, consequat sapien eget, placerat lacus. Nunc eu dictum mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ullamcorper luctus odio at sagittis. Donec felis ex, tempus vel quam sit amet, imperdiet sollicitudin ipsum. Fusce ultrices commodo leo. Aenean enim dolor, consectetur ut maximus nec, bibendum quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus a felis ligula. Mauris massa ligula, vehicula sed mattis nec, volutpat sed magna. Vestibulum rhoncus, diam a faucibus lacinia, libero purus vulputate dui, semper commodo dui quam ac nunc."
+    },
+    {
+      "tag":"bold",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":{
+        "english":"English",
+        "japanese":"日本語"
+      }
+    },
+    {
+      "tag":"images",
+      "id":"",
+      "class":"",
+      "style":{},
+      "content":[
+        {
+          "src":"/assets/images/sunset.jpeg",
+          "style":{
+            "height":"500px",
+            "minWidth":"500px"
+          },
+          "english":"Sunset",
+          "japanese":"夕暮れ"
+        },
+        {
+          "src":"/assets/images/flower.jpeg",
+          "style":{
+            "height":"500px",
+            "minWidth":"500px"
+          },
+          "english":"Flower",
+          "japanese":"花"
+        }
+      ]
+    }
+  ]
+}
