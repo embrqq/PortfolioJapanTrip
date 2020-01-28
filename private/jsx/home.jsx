@@ -39,6 +39,10 @@ class Home extends React.Component{
       <React.Fragment>
         <ContentHeader title="A Bit About This Site"/>
 
+        <Bold>
+          <h1>Find the repository for this site on <a href="https://github.com/embrqq/PortfolioJapanTrip">github</a>!</h1>
+        </Bold>
+
         <p>
           I'll be going to Japan this summer (2019) from June 16 to July 1. Since I really don't like sharing much of what I'm doing on major social media platforms like Facebook, Instagram, or Twitter, I intend to let friends and family see what I'm doing on my trip through this site. Think of this site as a sort of travel diary, organized by city, where I'll be putting daily entries. You can find the most recent things I've been doing at the bottom of this page in the recents area, or move to the diary page to see all my entries. This is the first time I've made a site like this from scratch (I just took web programming at school!), so hopefully it's pretty easy to navigate around. Figured it would be a good way to get practice using the skills I learned, and a more personal way to present my experiences from Japan!
         </p>
